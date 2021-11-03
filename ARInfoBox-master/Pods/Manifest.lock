@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Device (3.2.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - Device
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Device
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Device: 0738862dd8a30856b4bd9e21cb9b728873d21392
+
+PODFILE CHECKSUM: a2f39cf6c45356ef8bc76176cad6f8b3830c9785
+
+COCOAPODS: 1.10.2
